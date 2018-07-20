@@ -1,4 +1,4 @@
-# ignore IDE/hidden/OS cache files
+ # ignore IDE/hidden/OS cache files
 .*
 *~
 nbproject
